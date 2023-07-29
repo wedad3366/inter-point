@@ -1,0 +1,114 @@
+.breadcrumb-section
+{
+    color: white !important;
+    padding: 2px 2px;
+    margin-top: 15px;
+}
+body h3
+{
+    color: #E57C48;
+}
+h2{
+    font-family: "PT Serif", "Times New Roman"!important;
+}
+.card
+{
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 17px 0 rgba(0, 0, 0, 0.11);
+}
+.card .card-icon
+{
+    text-align: center;
+    position:absolute;
+    top: 5%;
+    right: 5%;
+    width: 32px;
+    height: 32px;
+}
+.card .card-END
+{
+    position:absolute;
+    bottom: 5%;
+    left: 4%;
+}
+.card-body .SALLARY
+{
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+
+.parent{
+    border-radius: 20px;
+    overflow: hidden;
+}
+.parent img 
+{
+    transition: .3s .2s transform;
+}
+.parent:hover img
+{
+    transform: scale(2,2);
+}
+
+.last-section
+{
+    background-color: 
+    #022B3D;
+    width: 100%;
+    height: 50%;
+}
+.BUTTON1-footer
+{
+    border: none;
+    background-color: whitesmoke;
+    color: #E57C48;
+    padding: 5px 9px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.BUTTON1-footer:hover{
+    background-color: #E57C48;
+    color: white;
+}
+.BUTTON2-footer
+{
+    border: none;
+    background-color: #E57C48;
+    color: white;
+    padding: 5px 9px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.BUTTON2-footer:hover{
+    background-color:whitesmoke;
+    color: #E57C48;
+}
+.card-iconfooter
+{
+    width: 32px;
+    height: 32px;
+    line-height: 33px;
+}
+.small-FOOTER
+{
+    width: 100%;
+    height: 5%;
+}
+.section-seven
+{
+    width: 100%;
+    height: 14%;
+    opacity: .5;
+}
+.last-section h6{
+    color: #E57C48;
+    font-size:medium;
+}
+.last-section ul li a:hover
+{
+  color: #E57C48 !important;
+}
+.last-section a i:hover
+{
+    color: #E57C48 !important;
+}
